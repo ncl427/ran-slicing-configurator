@@ -1,0 +1,28 @@
+{
+  "dl": [
+    {
+      "id": 0,
+      "percentage": 50,
+      "maxmcs": 28
+    },
+    {
+      "id": 3,
+      "percentage": 50,
+      "maxmcs": 28
+    }
+  ],
+  "ul": [
+    {
+      "id": 0,
+      "percentage": 50,
+      "firstRb": 0
+    },
+    {
+      "id": 3,
+      "percentage": 50,
+      "firstRb": 25
+    }
+  ],
+  "intrasliceShareActive": true,
+  "intersliceShareActive": false
+}
